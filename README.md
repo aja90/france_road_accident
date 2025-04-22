@@ -45,6 +45,10 @@ This project demonstrates a full end-to-end data pipeline: from unstructured dat
   - Dashboard screenshots
 
 ---
+## 📊 Dashboard Preview
+
+Here’s a preview of the Power BI dashboard built in this project:
+![Dashboard Screenshot](PowerBI_dashboard.png)
 
 ## 🔍 Key Insights
 
